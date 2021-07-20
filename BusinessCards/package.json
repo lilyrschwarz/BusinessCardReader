@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-camera": "^3.1.1",
     "react-native-text-detector": "^0.0.6"
   },
